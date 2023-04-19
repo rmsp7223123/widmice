@@ -1,2 +1,2 @@
 # widmice
- 
+widmice web (responsive)
